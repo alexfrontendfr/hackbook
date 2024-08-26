@@ -2,7 +2,7 @@ export const books = [
   {
     id: 1,
     title: "Mastering Emotional Intelligence",
-    cover: "MasteringEmotionalIntelligenceCover.png",
+    cover: "./images/MasteringEmotionalIntelligenceCover.png",
     description:
       "Boost your emotional intelligence at work with practical, no-nonsense tips. This guide is all about taking action, staying aware, and building real connections every day.",
     content: [
@@ -25,7 +25,7 @@ export const books = [
   {
     id: 2,
     title: "Leadership Affirmations and Actions",
-    cover: "LeadershipAffirmationsAndActionsCover.png",
+    cover: "/images/LeadershipAffirmationsAndActionsCover.png",
     description:
       "Step up as a leader with daily affirmations and straightforward actions. This guide cuts through the fluff and gets you into the mindset of a true leader.",
     content: [
@@ -48,7 +48,7 @@ export const books = [
   {
     id: 3,
     title: "Building and Expanding Connections",
-    cover: "BuildingConnectionsCover.png",
+    cover: "/images/BuildingConnectionsCover.png",
     description:
       "Your network is your net worth. Learn how to build and expand your connections every day with no-nonsense, actionable steps.",
     content: [
@@ -71,7 +71,7 @@ export const books = [
   {
     id: 4,
     title: "Managing Emotions Effectively",
-    cover: "ManagingEmotionsCover.png",
+    cover: "/images/ManagingEmotionsCover.png",
     description:
       "Get a grip on your emotions with straightforward techniques that you can practice daily. This guide helps you stay balanced, focused, and in control.",
     content: [
@@ -94,7 +94,7 @@ export const books = [
   {
     id: 5,
     title: "Daily Organization and Planning",
-    cover: "DailyOrganizationCover.png",
+    cover: "./images/DailyOrganizationCover.png",
     description:
       "Stay on top of your game with simple daily routines that keep you organized and focused. This guide cuts through the clutter and helps you plan like a pro.",
     content: [
@@ -117,7 +117,7 @@ export const books = [
   {
     id: 6,
     title: "Letting Go of Perfectionism",
-    cover: "LettingPerfectionismGoCover.png",
+    cover: "./images/LettingPerfectionismGoCover.png",
     description:
       "Learn how to stop chasing perfection and start getting things done with this practical guide. It’s time to work smarter, not harder.",
     content: [
