@@ -71,7 +71,7 @@ export const books = [
   {
     id: 4,
     title: "Managing Emotions Effectively",
-    cover: "/images/ManagingEmotionsCover.png",
+    cover: "src/components/images/ManagingEmotionsCover.png",
     description:
       "Get a grip on your emotions with straightforward techniques that you can practice daily. This guide helps you stay balanced, focused, and in control.",
     content: [
@@ -94,7 +94,7 @@ export const books = [
   {
     id: 5,
     title: "Daily Organization and Planning",
-    cover: "./images/DailyOrganizationCover.png",
+    cover: "src/components/images/DailyOrganizationCover.png",
     description:
       "Stay on top of your game with simple daily routines that keep you organized and focused. This guide cuts through the clutter and helps you plan like a pro.",
     content: [
@@ -117,7 +117,7 @@ export const books = [
   {
     id: 6,
     title: "Letting Go of Perfectionism",
-    cover: "./images/LettingPerfectionismGoCover.png",
+    cover: "src/components/images/LettingPerfectionismGoCover.png",
     description:
       "Learn how to stop chasing perfection and start getting things done with this practical guide. It’s time to work smarter, not harder.",
     content: [
